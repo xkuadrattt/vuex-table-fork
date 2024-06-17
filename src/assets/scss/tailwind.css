@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.form-input {
+  @apply flex flex-col gap-2 [&>label]:text-subs [&>input]:border [&>input]:border-border [&>input]:p-2 [&>input]:rounded-lg;
+}
