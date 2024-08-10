@@ -3,7 +3,7 @@
     <div class="hero-headline sm:flex justify-between">
       <img src="@/assets/images/heroimg.png" alt="heroimg" />
       <div class="hero-copy flex flex-col justify-center">
-        <h1 class="sm:text-xl font-bold mb-6">Kit Data untuk Tim Anda!</h1>
+        <h1 class="sm:text-3xl font-bold mb-6">Kit Data untuk Tim Anda!</h1>
         <p class="mb-2">
           Kitatim:[C] menghadirkan Super Web Apps untuk kebutuhan data Anda
           dengan beragam fitur serta teknologi terkini. Kitatim:[C] juga
