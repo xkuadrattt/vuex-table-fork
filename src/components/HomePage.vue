@@ -1,5 +1,5 @@
 <template>
-  <section class="hero container">
+  <section class="hero container min-h-screen flex items-center">
     <div class="hero-headline sm:flex justify-between">
       <img src="@/assets/images/heroimg.png" alt="heroimg" />
       <div class="hero-copy">
