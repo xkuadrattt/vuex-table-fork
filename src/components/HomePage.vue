@@ -1,9 +1,9 @@
 <template>
   <section class="hero container">
-    <div class="hero-headline">
+    <div class="hero-headline sm:flex justify-between">
       <img src="@/assets/images/heroimg.png" alt="heroimg" />
       <div class="hero-copy">
-        <h1>Kit Data untuk Tim Anda!</h1>
+        <h1 class="sm:text-xl font-bold mb-4">Kit Data untuk Tim Anda!</h1>
         <p>
           Kitatim:[C] menghadirkan Super Web Apps untuk kebutuhan data Anda
           dengan beragam fitur serta teknologi terkini. Kitatim:[C] juga
